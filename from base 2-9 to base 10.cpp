@@ -25,7 +25,7 @@
 
 main (){
 	int base=0, number=0, digits=0, base10=0;
-	printf ("Introduzca el numero y la base de 2 a 9 en la que esta\n");
+	printf ("Introduce the number and its base (2-9)\n");
 	scanf ("%d", &number);
 	scanf ("%d", &base);
 	
